@@ -1,6 +1,4 @@
-data_catdogs\trainset\*
 data_catdogs\trainset\Cat\*
 data_catdogs\trainset\Dog\*
 data_catdogs\testset\test\*
-data_catdogs\testset\*
 *.jpg

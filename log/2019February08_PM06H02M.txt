@@ -1,0 +1,1 @@
+Convnet Classifier : number of parameters = 1550882, deptp = 10.
