@@ -1,0 +1,1 @@
+Convnet Classifier : number of parameters = 732306, deptp = 5. , lr = 0.0001, batch size = 512
