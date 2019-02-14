@@ -1,6 +1,3 @@
-data_catdogs\trainset\Cat\*
-data_catdogs\trainset\Dog\*
-data_catdogs\testset\test\*
 *.jpg
-*pth
-! .\save\dev1num3model.pth
+*.pth
+!.\save\dev1num3model.pth
