@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Assigment 1, part3}{}% 1
+\BOOKMARK [2][-]{subsubsection.1.0.1}{Members of the team :}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.0.2}{Import the data used for training and validation}{subsubsection.1.0.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.0.3}{Display some samples}{subsubsection.1.0.1}% 4
+\BOOKMARK [2][-]{subsection.1.1}{Set the device}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{The models}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Assignment Questions}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Number of parameters in each model:}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Display a description of the architecture of each models}{subsection.2.1}% 9
+\BOOKMARK [1][-]{section.3}{Training}{}% 10
+\BOOKMARK [2][-]{subsubsection.3.0.1}{Plotting}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.0.2}{Another ploting function}{subsubsection.3.0.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Initialization method}{subsubsection.3.0.1}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Question 2}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.1}{The training}{subsection.3.1}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.2}{If necessary,}{subsection.3.1}% 16
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Plot accuracy and loss on the training and validation dataset}{subsection.3.1}% 17
+\BOOKMARK [1][-]{section.4}{Finding good hyper-parameters}{}% 18
+\BOOKMARK [2][-]{subsubsection.4.0.1}{Display the result of the search}{section.4}% 19
+\BOOKMARK [1][-]{section.5}{Past stuff}{}% 20
+\BOOKMARK [1][-]{section.6}{Our results}{}% 21
+\BOOKMARK [1][-]{section.7}{Our interpretation}{}% 22
+\BOOKMARK [1][-]{section.8}{Miscellaneous}{}% 23
+\BOOKMARK [2][-]{subsubsection.8.0.1}{Answer}{section.8}% 24
+\BOOKMARK [3][-]{subsubsection.8.0.2}{Visualize feature maps}{subsubsection.8.0.1}% 25
+\BOOKMARK [3][-]{subsubsection.8.0.3}{vizualize kernels}{subsubsection.8.0.1}% 26
+\BOOKMARK [1][-]{section.9}{Submit}{}% 27
+\BOOKMARK [1][-]{section.10}{Save and load models}{}% 28
+\BOOKMARK [1][-]{section.11}{Other comments}{}% 29
+\BOOKMARK [2][-]{subsubsection.11.0.1}{Use majority vote}{section.11}% 30
+\BOOKMARK [3][-]{subsubsection.11.0.2}{Find a good initialization}{subsubsection.11.0.1}% 31

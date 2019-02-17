@@ -1,0 +1,19 @@
+((* block docclass *))
+\documentclass[reprint, floatfix, groupaddress, prb, longbibliography]{revtex4-1}
+
+\usepackage{placeins}
+
+\AtBeginDocument{
+\heavyrulewidth=.08em
+\lightrulewidth=.05em
+\cmidrulewidth=.03em
+\belowrulesep=.65ex
+\belowbottomsep=0pt
+\aboverulesep=.4ex
+\abovetopsep=0pt
+\cmidrulesep=\doublerulesep
+\cmidrulekern=.5em
+\defaultaddspace=.5em
+}
+
+((* endblock docclass *))
